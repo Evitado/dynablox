@@ -38,6 +38,6 @@
   <!-- Packages required for demo -->
   <depend>drift_simulation</depend>
   <depend>ouster_ros</depend>
-  <depend>lidar_undistortion</depend>
+  <!-- depend>lidar_undistortion</depend -->
 
 </package>
